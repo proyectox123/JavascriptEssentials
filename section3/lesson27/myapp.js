@@ -25,4 +25,5 @@ console(10 > 1); //true
 console("hello" > "hello"); //false
 console("helloooo" > "hello"); //true
 console(10 >= 10); //true
-console(100 <= 100); //true
+console(10 <= 100); //true
+console("Helloooo" > "hello"); //false
